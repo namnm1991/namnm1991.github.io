@@ -2,7 +2,6 @@
 layout: post
 title: Getting Started With Blogging
 date: 2017-10-23
-tags: [fastai, coursera]
 ---
 
 "AI is the New Electricity" - Andrew Ng
